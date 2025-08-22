@@ -62,10 +62,12 @@ We experimented with **Linear Regression, Lasso, Ridge, and Polynomial Regressio
 
 ## Files in this Repository
 - `Linear_Regression_Test_Loryne.ipynb` – Main notebook with full workflow.
+- `Cardekho.csv` - Initial dataset provided for the project.
+- `Cleaned_cars.csv` - Cleaned dataset saved from while working on the project.
 - `README.md` – This documentation.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
 - Jupyter Notebook
