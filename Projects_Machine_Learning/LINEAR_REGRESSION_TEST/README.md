@@ -2,13 +2,13 @@
 
 This repository contains a Jupyter Notebook that walks through the process of building and evaluating different regression models to predict car selling prices.  
 
-## 📌 Project Overview
+## Project Overview
 The goal of this project is to use machine learning regression techniques to predict the selling price of cars based on their features (year, mileage, fuel type, transmission, etc.).  
 We experimented with **Linear Regression, Lasso, Ridge, and Polynomial Regression**, and compared their performances.
 
 ---
 
-## 🔑 Steps in the Notebook
+## Steps in the Notebook
 
 ### 1. Data Cleaning & Preprocessing
 - Understood the meaning of each dataset column (brand, model, year, selling_price, km_driven, fuel type, seller type, transmission).
@@ -43,7 +43,7 @@ We experimented with **Linear Regression, Lasso, Ridge, and Polynomial Regressio
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 - **Linear Regression**: Simple, interpretable, but limited in capturing complex patterns.  
 - **Lasso Regression**: Useful for feature selection but may underfit.  
 - **Ridge Regression**: Balanced trade-off, performed better with regularization.  
@@ -53,19 +53,21 @@ We experimented with **Linear Regression, Lasso, Ridge, and Polynomial Regressio
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 - Tune hyperparameters further.
 - Try ensemble methods (Random Forest, Gradient Boosting).
 - Deploy as a web app for car price prediction.
 
 ---
 
-## 📂 Files in this Repository
+## Files in this Repository
 - `Linear_Regression_Test_Loryne.ipynb` – Main notebook with full workflow.
+- `Cardekho.csv` - Initial dataset provided for the project.
+- `Cleaned_cars.csv` - Cleaned dataset saved from while working on the project.
 - `README.md` – This documentation.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
 - Jupyter Notebook
